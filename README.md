@@ -31,23 +31,36 @@ Antes de começar, salve o conteúdo abaixo em um arquivo texto simples (sem for
 Efetue a criação do programa, de acordo com os seguintes requisitos:
 
 1. O usuário deverá informar o caminho e nome do arquivo CSV.
+
 2. Efetuar a leitura do arquivo e apresentar na tela o seu conteúdo.
+
 3. Efetuar a inserção de uma nova doação (linha) no final do arquivo, obedecendo o mesmo formato dos registros contidos no arquivo (código, nome, cpf, data_nascimento, tipo_sanguíneo e mls_doados).
+
 4. Efetuar a deleção de linhas do arquivo de acordo com o código da doação especificado.
+
 5. Os itens 2, 3 e 4 devem ser implementados por meio de métodos/funções estáticas.
+
 6. Efetue o tratamento de exceções relacionadas à manlipulação de arquivos.
+
 7. Apresentar um menu, permitindo a seleção e execução das funcionalidades 2, 3 e 4.
+
 8. Efetuar a documentação JavaDOC do programa gerado.
  
 Como entregar a atividade:
-
 Você deve entregar um arquivo no formato texto (Word) ou PDF – no template da atividade, contendo os seguintes itens:
 
 - Código Java do programa.
+
 - A captura de tela do output, na execução de cada uma das funcionalidades na ordem:
+
 1 leitura arquivo;
+
 2 inserção de um registro;
+
 3 leitura arquivo;
+
 4 deleção de um registro;
+
 5 leitura do arquivo; 
+
 6 sair do programa.
