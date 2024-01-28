@@ -9,17 +9,27 @@ Um arquivo CSV é um arquivo de dados em formato de estrutura de tabela, onde os
 Antes de começar, salve o conteúdo abaixo em um arquivo texto simples (sem formatação), e salve-o como doacoes.csv em uma pasta de fácil acesso como “C:\CSV\”.
 
 1,Marcio dos Santos,521523159-57,2023-10-01,O+,150
+
 2,Jose Eduardo,457896549-85,2023-12-01,O-,300
+
 3,Adriana Jardim,123845678-12,2023-09-15,AB+,280
+
 4,Carlos Roberto,341524981-35,2023-05-25,A+,380
+
 5,Vinicius Cosatto,531765566-47,2023-04-14,A-,450
+
 6,Felipe Neves,665977825-87,2023-10-17,O+,600
+
 7,Alicia Flores,654895159-48,2023-07-22,AB+,650
+
 8,Natalia Costa,977455987-12,2023-11-12,O-,720
+
 9,Gertrudes Menezes,377551298-44,2023-09-11,O+,460
+
 10,Henrique Martins,259886411-58,2023-18-10,O-,350
  
 Efetue a criação do programa, de acordo com os seguintes requisitos:
+
 1. O usuário deverá informar o caminho e nome do arquivo CSV.
 2. Efetuar a leitura do arquivo e apresentar na tela o seu conteúdo.
 3. Efetuar a inserção de uma nova doação (linha) no final do arquivo, obedecendo o mesmo formato dos registros contidos no arquivo (código, nome, cpf, data_nascimento, tipo_sanguíneo e mls_doados).
@@ -30,7 +40,9 @@ Efetue a criação do programa, de acordo com os seguintes requisitos:
 8. Efetuar a documentação JavaDOC do programa gerado.
  
 Como entregar a atividade:
+
 Você deve entregar um arquivo no formato texto (Word) ou PDF – no template da atividade, contendo os seguintes itens:
+
 - Código Java do programa.
 - A captura de tela do output, na execução de cada uma das funcionalidades na ordem:
 1 leitura arquivo;
